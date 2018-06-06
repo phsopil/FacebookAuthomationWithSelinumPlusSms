@@ -1,7 +1,7 @@
-Facebook Authomation With Sms
+_Facebook _Authomation With _Sms
 
 Description:
-     simple script to &authomate &facebook login and &notification &checkup using java.
+     simple script to _authomate _facebook login and _notification _checkup using java.
 
      the count of new notification will send by sms, using Twilio library
 
@@ -31,10 +31,10 @@ Usage:
 
 Author:
 
-    &fasil &minale
+    _fasil _minale
 
-    &fasiladam1290@gmail.com
-    &ate/&9774&/&08
+    _fasiladam1290@gmail.com
+    _ate/_9774_/_08
 
 
 enjoy!!!
