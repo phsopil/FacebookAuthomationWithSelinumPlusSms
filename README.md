@@ -1,10 +1,10 @@
 # FacebookAuthomationWithSelinumPlusSms
-_Facebook _Authomation With _Sms
+
 
 Description:
      
-     simple script to _authomate _facebook login and _notification _checkup using java.
-     the count of new _notification will _send by _sms, using Twilio library
+     simple script to _authomate _facebook login and ænotification æcheckup using java.
+     the count of new _notification will _send by æsms, using Twilio library
 
 Usage:
 
@@ -32,10 +32,10 @@ Usage:
 
 Author:
 
-    _fasil _minale
+    æfasil æminale
 
-    _fasiladam1290@gmail.com
-    _ate/_9774_/_08
+    fasiladam1290@gmail.com
+    æate/æ9774æ/_08
 
 
 enjoy!!!
