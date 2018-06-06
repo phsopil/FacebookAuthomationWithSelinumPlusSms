@@ -2,8 +2,8 @@
 _Facebook _Authomation With _Sms
 
 Description:
+     
      simple script to _authomate _facebook login and _notification _checkup using java.
-
      the count of new notification will send by sms, using Twilio library
 
 Usage:
