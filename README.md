@@ -3,8 +3,8 @@
 
 Description:
      
-     simple script to _authomate _facebook login and ænotification æcheckup using java.
-     the count of new _notification will _send by æsms, using Twilio library
+     simple script to authomate facebook login and notification æcheckup using java.
+     the count of new notification will send by æsms, using Twilio library
 
 Usage:
 
@@ -32,10 +32,10 @@ Usage:
 
 Author:
 
-    æfasil æminale
+    fasil minale
 
     fasiladam1290@gmail.com
-    æate/æ9774æ/_08
+    ate/9774/08
 
 
 enjoy!!!
