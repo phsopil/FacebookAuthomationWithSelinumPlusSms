@@ -3,8 +3,8 @@
 
 Description:
      
-     simple script to authomate facebook login and notification æcheckup using java.
-     the count of new notification will send by æsms, using Twilio library
+     simple script to authomate facebook login and notification checkup using java.
+     the count of new notification will send by sms, using Twilio library
 
 Usage:
 
